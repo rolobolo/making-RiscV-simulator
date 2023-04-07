@@ -34,5 +34,7 @@ J format - jal
 
 The program fetches the instruction, decodes it, fetches the operands, generates control signals and ALU signals, performs the ALU operations, reads and writes back from the memory file.
 
-The simulator is tested on the given instructions(test files) i.e. bubblesort.mc, ArraySum.mc and fibonacci.mc files.
+The simulator is tested on the given instructions(test files) i.e. bubblesort.mc, ArraySum.mc and fibonacci.mc files. 
+
+Thanks for reading!
 
